@@ -4,7 +4,7 @@
 
 ## 下载与安装
 
-**[下载 Skill 安装包](https://github.com/RRRRRRRickk/Ha7ch-school/releases/latest/download/ha7ch-school.zip)**
+**[下载 Skill 安装包](https://github.com/RRRRRRRickk/workbuddy-ai-starter/releases/latest/download/ha7ch-school.zip)**
 
 1. 将安装包保存到电脑。
 2. 打开 WorkBuddy 的技能区域，选择「添加技能 → 上传技能」，导入该 ZIP。
@@ -47,3 +47,7 @@
 [视频与办公技能](ha7ch-school/references/resources.md) · [Grill me、Learn Anything 等交互学习来源](ha7ch-school/references/learning-projects.md)
 
 采用面向职场的自编练习并链接参考项目，不捆绑其源码。当前未授予额外开源许可。
+
+## 从旧版更新
+
+已安装 workbuddy-ai-starter 的用户，请导入新版 ha7ch-school.zip 并关闭旧技能，避免重复调用。
