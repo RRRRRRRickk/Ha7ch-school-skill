@@ -6,7 +6,7 @@
 
 在 WorkBuddy 中启用本技能后，说：
 
-> 请使用 workbuddy-ai-starter，带我学会用 AI 做工作。我还不熟悉，一次带我做一步。
+> 请使用 ha7ch-school，带我学会用 AI 做工作。我还不熟悉，一次带我做一步。
 
 接下来任选一种：
 

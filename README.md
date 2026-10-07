@@ -1,21 +1,21 @@
-# AI 职场上手教练
+# Ha7ch-school
 
 面向使用 WorkBuddy 的 AI 初学者：用自己的工作边做边学，练会交代任务、提供背景、反馈修改、核验交付和复用方法。
 
 ## 下载与安装
 
-**[下载 Skill 安装包](https://github.com/RRRRRRRickk/workbuddy-ai-starter/releases/latest/download/workbuddy-ai-starter.zip)**
+**[下载 Skill 安装包](https://github.com/RRRRRRRickk/Ha7ch-school/releases/latest/download/ha7ch-school.zip)**
 
 1. 将安装包保存到电脑。
 2. 打开 WorkBuddy 的技能区域，选择「添加技能 → 上传技能」，导入该 ZIP。
-3. 在已安装列表确认 `workbuddy-ai-starter` 已启用。
+3. 在已安装列表确认 `ha7ch-school` 已启用。
 4. 新建对话，输入下面的开始用语。
 
 具体入口和格式以当前客户端为准：[WorkBuddy 官方技能说明](https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market)。请下载上面的发布安装包；GitHub 的整个仓库源码 ZIP 不作为技能安装包。
 
 ## 第一句话
 
-> 请使用 workbuddy-ai-starter，带我学会用 AI 做工作。我是初学者，请先介绍我可以怎么学，再一次带我做一步。
+> 请使用 ha7ch-school，带我学会用 AI 做工作。我是初学者，请先介绍我可以怎么学，再一次带我做一步。
 
 可以上传岗位职责、个人简历、实际任务材料，或直接说“给我一个职场小练习”。不需要先学编程或背提示词公式。
 
@@ -34,7 +34,7 @@
 
 **学习路线：选一件事 → 一起做一版 → 改好并核对 → 换个场景试 → 留下方法。**
 
-[完整学员指南](workbuddy-ai-starter/references/learner-guide.md) · [技能定义](workbuddy-ai-starter/SKILL.md) · [交互玩法](workbuddy-ai-starter/references/interactive.md)
+[完整学员指南](ha7ch-school/references/learner-guide.md) · [技能定义](ha7ch-school/SKILL.md) · [交互玩法](ha7ch-school/references/interactive.md)
 
 ## 状态与能力
 
@@ -44,6 +44,6 @@
 
 ## 参考来源
 
-[视频与办公技能](workbuddy-ai-starter/references/resources.md) · [Grill me、Learn Anything 等交互学习来源](workbuddy-ai-starter/references/learning-projects.md)
+[视频与办公技能](ha7ch-school/references/resources.md) · [Grill me、Learn Anything 等交互学习来源](ha7ch-school/references/learning-projects.md)
 
 采用面向职场的自编练习并链接参考项目，不捆绑其源码。当前未授予额外开源许可。
